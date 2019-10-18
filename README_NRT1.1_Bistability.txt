@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This MATLAB program describes the model for bistable response of protein NRT1.1 along the increasing nitrtae gradient. 
+This MATLAB program describes the model for bistable response of protein NRT1.1 along the increasing nitrate gradient. 
 
 It is based on three differential equations:
 
