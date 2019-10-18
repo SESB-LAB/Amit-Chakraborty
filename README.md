@@ -1,6 +1,5 @@
 #Author Name: Mubasher Rashid and Amit Chakraborty
 #NRT1.1_Bistabe_Response
-#Switch like Response of NRT1.1 in fluctuating nitrate conditions
 
 INTRODUCTION
 
